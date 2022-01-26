@@ -1,4 +1,6 @@
+
 // Codigo del cuadrado
+
 
 console.group("Cuadrados");
 const ladoCuadrado = 5;
@@ -10,6 +12,16 @@ console.log("El perimetro del cuadrado mide :" + perimetroCuadrado + " cm");
 const areaCuadrado = ladoCuadrado * ladoCuadrado;
 console.log("El área del cuadrado mide :" + areaCuadrado + " cm2");
 console.groupEnd();
+
+
+
+
+
+
+
+
+
+
 
 // Codigo del triángulo
 console.group("Triángulos");
